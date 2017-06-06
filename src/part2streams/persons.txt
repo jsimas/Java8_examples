@@ -1,0 +1,10 @@
+Joao 10
+Pedro 15
+Fatima 40
+Sergio 35
+Ricardo 37
+Simas 36
+Machado 42
+Tavares 26
+Carolina 21
+Catarina 21
